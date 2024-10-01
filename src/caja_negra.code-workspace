@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "caja_negra",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"wprogram.h": "c"
+		}
+	}
+}
